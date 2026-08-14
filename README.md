@@ -19,8 +19,11 @@ YYYY/
 
 For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
-There is no index or summary here — this README stays static. Browse by year and
-month folder to find a given day.
+## Recent Entries
+
+The 10 most recently pushed days, newest first:
+
+- [2026-08-14](2026/08/2026-08-14.md)
 
 ## Scope
 
