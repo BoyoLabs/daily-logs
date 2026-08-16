@@ -1,5 +1,7 @@
 # Boyo Labs: Daily Logs
 
+*Part of [Boyo Labs](https://www.boyolabstech.com).*
+
 A day-by-day running record of Boyo Labs activity — whatever happened that day across
 software, hardware, infra, and research, in whatever mix actually occurred. Lighter
 weight than [`project-logs`](https://github.com/BoyoLabs/project-logs), which holds
