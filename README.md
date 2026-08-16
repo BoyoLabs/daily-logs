@@ -23,6 +23,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-08-15](2026/08/2026-08-15.md)
 - [2026-08-14](2026/08/2026-08-14.md)
 
 ## Scope
