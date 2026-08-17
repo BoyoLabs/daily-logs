@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-08-16](2026/08/2026-08-16.md) — print server storefront shipped with a pause-orders switch and multi-part combined print jobs
 - [2026-08-15](2026/08/2026-08-15.md) — dashboard tab split and ops tools, ssh terminal auto-lock restored, mobile STL upload fix
 - [2026-08-14](2026/08/2026-08-14.md) — logs repo split in two, business card design finished, automatic system updates shipped
 
