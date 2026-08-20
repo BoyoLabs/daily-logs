@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-08-19](2026/08/2026-08-19.md) — remote-control's flaky restarts fixed with a real reachability check; homepage now links to recent/random daily+research logs with tiny AI summaries; a new troubleshooting-script sharing tool and a second-machine bootstrap prompt both shipped; a high-risk mixed-RAM test failed to POST
 - [2026-08-18](2026/08/2026-08-18.md) — a new clip/photo mashup video tool built and iterated through the day, a full-length landscape mode with its own voiceover editor, GPU-offloaded encoding, an in-app camera recorder
 - [2026-08-17](2026/08/2026-08-17.md) — statement of intent published, a kernel update's dropped security module traced and fixed, remote-desktop relay root-caused and given a self-heal check, dashboard restart controls simplified, a task calendar added to the dashboard
 - [2026-08-16](2026/08/2026-08-16.md) — print server storefront shipped with a pause-orders switch and multi-part combined print jobs
