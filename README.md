@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-08-24](2026/08/2026-08-24.md) — scoping kicked off for a new multi-session project: a custom AI-CLI-first Arch-based Linux distro with an MVP plan agreed but not yet started
 - [2026-08-21 – 2026-08-22](2026/08/2026-08-21_2026-08-22.md) — a braille-ASCII webcam render experiment, two dead nav tabs dropped from the income dashboard (and its terminal client), and a three-round battlestation theme pass: de-glowed, re-colored to a muted amber, then polished toward a cleaner SaaS look
 - [2026-08-20](2026/08/2026-08-20.md) — file server gains markdown and spreadsheet file types plus a real edit-anywhere upgrade, a broken inline script caught and fixed along the way, keyboard nav added to the new grid editor, two CSS overflow bugs squashed
 - [2026-08-19](2026/08/2026-08-19.md) — remote-control's flaky restarts fixed with a real reachability check; homepage now links to recent/random daily+research logs with tiny AI summaries; a new troubleshooting-script sharing tool and a second-machine bootstrap prompt both shipped; a high-risk mixed-RAM test failed to POST
