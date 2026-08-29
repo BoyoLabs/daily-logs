@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-08-28](2026/08/2026-08-28.md) — the castle walkaround turned into a real timed game: random goblin spawns, a 3-minute clock, live scoring, and a replay screen
 - [2026-08-27](2026/08/2026-08-27.md) — a first-person browser walkaround built from a 3D-printed castle STL, a camera-FOV bug and a caching false-alarm both chased down, mobile touch controls added, and a second STL turned into a hittable goblin enemy colored by a from-scratch mesh-thickness heuristic
 - [2026-08-25](2026/08/2026-08-25.md) — a phone-friendly chat frontend for Claude Code shipped with approve/deny cards and a local-model fallback, the internal troubleshooting-script host retired, and a first real test drive turned up three rough edges to chase
 - [2026-08-24](2026/08/2026-08-24.md) — scoping kicked off for a new multi-session project: a custom AI-CLI-first Arch-based Linux distro with an MVP plan agreed but not yet started
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-08-18](2026/08/2026-08-18.md) — a new clip/photo mashup video tool built and iterated through the day, a full-length landscape mode with its own voiceover editor, GPU-offloaded encoding, an in-app camera recorder
 - [2026-08-17](2026/08/2026-08-17.md) — statement of intent published, a kernel update's dropped security module traced and fixed, remote-desktop relay root-caused and given a self-heal check, dashboard restart controls simplified, a task calendar added to the dashboard
 - [2026-08-16](2026/08/2026-08-16.md) — print server storefront shipped with a pause-orders switch and multi-part combined print jobs
-- [2026-08-15](2026/08/2026-08-15.md) — dashboard tab split and ops tools, ssh terminal auto-lock restored, mobile STL upload fix
 
 ## Scope
 
