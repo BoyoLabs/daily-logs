@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-09-03](2026/09/2026-09-03.md) — the mobile chat frontend restyled as a real terminal session, and per-file share links added to the file server, then broken twice by the same change and fixed both times
 - [2026-09-01](2026/09/2026-09-01.md) — a procedural goblin figurine built in Blender via metaballs, plus a full chess puzzle-racer service built, hardened, and torn down the same day once it turned out to duplicate an existing service at real scale
 - [2026-08-29](2026/08/2026-08-29.md) — two mobile chat frontend bugs fixed (a hardcoded 1MB message cap, and a stale connection after backgrounding), plus a third bug where full-auto mode was silently auto-answering multiple-choice questions instead of waiting for a tap
 - [2026-08-28](2026/08/2026-08-28.md) — the castle walkaround turned into a real timed game: random goblin spawns, a 3-minute clock, live scoring, and a replay screen
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-08-21 – 2026-08-22](2026/08/2026-08-21_2026-08-22.md) — a braille-ASCII webcam render experiment, two dead nav tabs dropped from the income dashboard (and its terminal client), and a three-round battlestation theme pass: de-glowed, re-colored to a muted amber, then polished toward a cleaner SaaS look
 - [2026-08-20](2026/08/2026-08-20.md) — file server gains markdown and spreadsheet file types plus a real edit-anywhere upgrade, a broken inline script caught and fixed along the way, keyboard nav added to the new grid editor, two CSS overflow bugs squashed
 - [2026-08-19](2026/08/2026-08-19.md) — remote-control's flaky restarts fixed with a real reachability check; homepage now links to recent/random daily+research logs with tiny AI summaries; a new troubleshooting-script sharing tool and a second-machine bootstrap prompt both shipped; a high-risk mixed-RAM test failed to POST
-- [2026-08-18](2026/08/2026-08-18.md) — a new clip/photo mashup video tool built and iterated through the day, a full-length landscape mode with its own voiceover editor, GPU-offloaded encoding, an in-app camera recorder
 
 ## Scope
 
