@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-09-06](2026/09/2026-09-06.md) — the browser remote-desktop stream torn down top to bottom after turning out to be perfectly healthy and simply unused, with a blast-radius sweep first and one DNS record left as a known loose end
 - [2026-09-04](2026/09/2026-09-04.md) — the chat frontend reskinned to amber phosphor with replies rendered as terminal output rather than chat, a resume-a-past-session picker that needed a second pass before it stopped opening blank, and a self-inflicted false alarm about a tunnel watchdog traced to a wrong-account schedule check
 - [2026-09-03](2026/09/2026-09-03.md) — the mobile chat frontend restyled as a real terminal session, and per-file share links added to the file server, then broken twice by the same change and fixed both times
 - [2026-09-01](2026/09/2026-09-01.md) — a procedural goblin figurine built in Blender via metaballs, plus a full chess puzzle-racer service built, hardened, and torn down the same day once it turned out to duplicate an existing service at real scale
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-08-25](2026/08/2026-08-25.md) — a phone-friendly chat frontend for Claude Code shipped with approve/deny cards and a local-model fallback, the internal troubleshooting-script host retired, and a first real test drive turned up three rough edges to chase
 - [2026-08-24](2026/08/2026-08-24.md) — scoping kicked off for a new multi-session project: a custom AI-CLI-first Arch-based Linux distro with an MVP plan agreed but not yet started
 - [2026-08-21 – 2026-08-22](2026/08/2026-08-21_2026-08-22.md) — a braille-ASCII webcam render experiment, two dead nav tabs dropped from the income dashboard (and its terminal client), and a three-round battlestation theme pass: de-glowed, re-colored to a muted amber, then polished toward a cleaner SaaS look
-- [2026-08-20](2026/08/2026-08-20.md) — file server gains markdown and spreadsheet file types plus a real edit-anywhere upgrade, a broken inline script caught and fixed along the way, keyboard nav added to the new grid editor, two CSS overflow bugs squashed
 
 ## Scope
 
