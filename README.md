@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-09-10](2026/09/2026-09-10.md) — a compressed Intent/Shape/Proof prompt model developed and trialed on a Steam Deck controller tester that failed its on-device test and got published as an intentional one-shot rather than debugged, plus a coworker's prompt-practice-site idea scoped out and deliberately shelved
 - [2026-09-08](2026/09/2026-09-08.md) — the daily-log capture rules rewritten so landed conversation counts, a stale-DNS cleanup decision left opportunistic, and a filament-runout bug root-caused and fixed with auto-pause, a shared park routine, and a decoupled, trustworthy alert
 - [2026-09-06](2026/09/2026-09-06.md) — the browser remote-desktop stream torn down top to bottom after turning out to be perfectly healthy and simply unused, with a blast-radius sweep first and one DNS record left as a known loose end
 - [2026-09-04](2026/09/2026-09-04.md) — the chat frontend reskinned to amber phosphor with replies rendered as terminal output rather than chat, a resume-a-past-session picker that needed a second pass before it stopped opening blank, and a self-inflicted false alarm about a tunnel watchdog traced to a wrong-account schedule check
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-08-28](2026/08/2026-08-28.md) — the castle walkaround turned into a real timed game: random goblin spawns, a 3-minute clock, live scoring, and a replay screen
 - [2026-08-27](2026/08/2026-08-27.md) — a first-person browser walkaround built from a 3D-printed castle STL, a camera-FOV bug and a caching false-alarm both chased down, mobile touch controls added, and a second STL turned into a hittable goblin enemy colored by a from-scratch mesh-thickness heuristic
 - [2026-08-25](2026/08/2026-08-25.md) — a phone-friendly chat frontend for Claude Code shipped with approve/deny cards and a local-model fallback, the internal troubleshooting-script host retired, and a first real test drive turned up three rough edges to chase
-- [2026-08-24](2026/08/2026-08-24.md) — scoping kicked off for a new multi-session project: a custom AI-CLI-first Arch-based Linux distro with an MVP plan agreed but not yet started
 
 ## Scope
 
