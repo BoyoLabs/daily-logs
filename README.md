@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-09-21](2026/09/2026-09-21.md) — a `/desk` command giving the income arm a skip-safe glance/standard/deep session, and the paper-trading tab restored with a per-account balance reset and an income withdrawal that never reads as a loss
 - [2026-09-17 – 2026-09-18](2026/09/2026-09-17.md) — the Steam Deck and home server articulated as one system, a long search for "one device to rule them all" resolved into deliberately not wanting that, a Steam button remap bug left alone at an upstream wall, and a VOO intraday move email alert built and tuned live to a 0.25% threshold ladder
 - [2026-09-10](2026/09/2026-09-10.md) — a compressed Intent/Shape/Proof prompt model developed and trialed on a Steam Deck controller tester that failed its on-device test and got published as an intentional one-shot rather than debugged, plus a coworker's prompt-practice-site idea scoped out and deliberately shelved
 - [2026-09-08](2026/09/2026-09-08.md) — the daily-log capture rules rewritten so landed conversation counts, a stale-DNS cleanup decision left opportunistic, and a filament-runout bug root-caused and fixed with auto-pause, a shared park routine, and a decoupled, trustworthy alert
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-09-01](2026/09/2026-09-01.md) — a procedural goblin figurine built in Blender via metaballs, plus a full chess puzzle-racer service built, hardened, and torn down the same day once it turned out to duplicate an existing service at real scale
 - [2026-08-29](2026/08/2026-08-29.md) — two mobile chat frontend bugs fixed (a hardcoded 1MB message cap, and a stale connection after backgrounding), plus a third bug where full-auto mode was silently auto-answering multiple-choice questions instead of waiting for a tap
 - [2026-08-28](2026/08/2026-08-28.md) — the castle walkaround turned into a real timed game: random goblin spawns, a 3-minute clock, live scoring, and a replay screen
-- [2026-08-27](2026/08/2026-08-27.md) — a first-person browser walkaround built from a 3D-printed castle STL, a camera-FOV bug and a caching false-alarm both chased down, mobile touch controls added, and a second STL turned into a hittable goblin enemy colored by a from-scratch mesh-thickness heuristic
 
 ## Scope
 
