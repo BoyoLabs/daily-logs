@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-09-29](2026/09/2026-09-29.md) — Ironman's second area Oakhollow shipped with two new skills and a second boss, a playtest-only rendering bug caught what green tests missed, plus a tape dispenser reprint and Steam Deck button macros
 - [2026-09-28](2026/09/2026-09-28.md) — Ironman, an offline OSRS-style RPG, built from design calls to v0.4.0 in a day: file-server playable, Deck-tested, a combat triangle and a merged Melee skill, plus a site outage traced to a file-ownership slip
 - [2026-09-26](2026/09/2026-09-26.md) — slow internet and stuck print uploads narrowed step by step to the uploading device, with the server, app and tunnel all ruled out
 - [2026-09-21](2026/09/2026-09-21.md) — a `/desk` command giving the income arm a skip-safe glance/standard/deep session, and the paper-trading tab restored with a per-account balance reset and an income withdrawal that never reads as a loss
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-09-06](2026/09/2026-09-06.md) — the browser remote-desktop stream torn down top to bottom after turning out to be perfectly healthy and simply unused, with a blast-radius sweep first and one DNS record left as a known loose end
 - [2026-09-04](2026/09/2026-09-04.md) — the chat frontend reskinned to amber phosphor with replies rendered as terminal output rather than chat, a resume-a-past-session picker that needed a second pass before it stopped opening blank, and a self-inflicted false alarm about a tunnel watchdog traced to a wrong-account schedule check
 - [2026-09-03](2026/09/2026-09-03.md) — the mobile chat frontend restyled as a real terminal session, and per-file share links added to the file server, then broken twice by the same change and fixed both times
-- [2026-09-01](2026/09/2026-09-01.md) — a procedural goblin figurine built in Blender via metaballs, plus a full chess puzzle-racer service built, hardened, and torn down the same day once it turned out to duplicate an existing service at real scale
 
 ## Scope
 
