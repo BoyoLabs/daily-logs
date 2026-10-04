@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-10-02](2026/10/2026-10-02.md) — a decision model researched and ruled out as a tunnel-watchdog replacement, Ironman's save transfer rebuilt to fail visibly, and the game made playable from one public link
 - [2026-10-01](2026/10/2026-10-01.md) — Ironman's third area, a farm with the game's first timer-based skill and a ranged boss, shipped, plus a text-only 3D frog toy test that landed at "okay, not great"
 - [2026-09-30](2026/09/2026-09-30.md) — the Steam Deck's Gaming Mode patched directly into a full handheld PC, with a live wallpaper switcher and desktop apps running natively, no plugin framework
 - [2026-09-29](2026/09/2026-09-29.md) — Ironman's second area Oakhollow shipped with two new skills and a second boss, a playtest-only rendering bug caught what green tests missed, plus a tape dispenser reprint and Steam Deck button macros
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-09-17 – 2026-09-18](2026/09/2026-09-17.md) — the Steam Deck and home server articulated as one system, a long search for "one device to rule them all" resolved into deliberately not wanting that, a Steam button remap bug left alone at an upstream wall, and a VOO intraday move email alert built and tuned live to a 0.25% threshold ladder
 - [2026-09-10](2026/09/2026-09-10.md) — a compressed Intent/Shape/Proof prompt model developed and trialed on a Steam Deck controller tester that failed its on-device test and got published as an intentional one-shot rather than debugged, plus a coworker's prompt-practice-site idea scoped out and deliberately shelved
 - [2026-09-08](2026/09/2026-09-08.md) — the daily-log capture rules rewritten so landed conversation counts, a stale-DNS cleanup decision left opportunistic, and a filament-runout bug root-caused and fixed with auto-pause, a shared park routine, and a decoupled, trustworthy alert
-- [2026-09-06](2026/09/2026-09-06.md) — the browser remote-desktop stream torn down top to bottom after turning out to be perfectly healthy and simply unused, with a blast-radius sweep first and one DNS record left as a known loose end
 
 ## Scope
 
