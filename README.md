@@ -25,6 +25,8 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-10-05](2026/10/2026-10-05.md) — a Mjolnir carving stencil redrawn from measurements after the eyeballed version looked like a kite, plus a four-tile Woodsman Ways stencil with its seam placed to avoid a loose island
+- [2026-10-03](2026/10/2026-10-03.md) — an online Ironman built and torn down the same day, TPU as a selectable print material, and a clean-room prompt playground whose invisible menu entry turned out to be two stacked caches
 - [2026-10-02](2026/10/2026-10-02.md) — a decision model researched and ruled out as a tunnel-watchdog replacement, Ironman's save transfer rebuilt to fail visibly, and the game made playable from one public link
 - [2026-10-01](2026/10/2026-10-01.md) — Ironman's third area, a farm with the game's first timer-based skill and a ranged boss, shipped, plus a text-only 3D frog toy test that landed at "okay, not great"
 - [2026-09-30](2026/09/2026-09-30.md) — the Steam Deck's Gaming Mode patched directly into a full handheld PC, with a live wallpaper switcher and desktop apps running natively, no plugin framework
@@ -33,8 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-09-26](2026/09/2026-09-26.md) — slow internet and stuck print uploads narrowed step by step to the uploading device, with the server, app and tunnel all ruled out
 - [2026-09-21](2026/09/2026-09-21.md) — a `/desk` command giving the income arm a skip-safe glance/standard/deep session, and the paper-trading tab restored with a per-account balance reset and an income withdrawal that never reads as a loss
 - [2026-09-17 – 2026-09-18](2026/09/2026-09-17.md) — the Steam Deck and home server articulated as one system, a long search for "one device to rule them all" resolved into deliberately not wanting that, a Steam button remap bug left alone at an upstream wall, and a VOO intraday move email alert built and tuned live to a 0.25% threshold ladder
-- [2026-09-10](2026/09/2026-09-10.md) — a compressed Intent/Shape/Proof prompt model developed and trialed on a Steam Deck controller tester that failed its on-device test and got published as an intentional one-shot rather than debugged, plus a coworker's prompt-practice-site idea scoped out and deliberately shelved
-- [2026-09-08](2026/09/2026-09-08.md) — the daily-log capture rules rewritten so landed conversation counts, a stale-DNS cleanup decision left opportunistic, and a filament-runout bug root-caused and fixed with auto-pause, a shared park routine, and a decoupled, trustworthy alert
 
 ## Scope
 
