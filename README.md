@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-10-08](2026/10/2026-10-08.md) — the chat frontend rebuilt into a terminal-first agent console with a self-updating model list, a CDN caching catch that turned Ironman's demo into a single self-contained page, and remote UI control of the Steam Deck confirmed
 - [2026-10-07](2026/10/2026-10-07.md) — a slicer project with a subtractive engraving converted to a plain STL by real boolean difference rather than a merge, and a no-drill notched-neck pendant attachment for hardened steel
 - [2026-10-06](2026/10/2026-10-06.md) — a monthly-income column and a Position Analysis tab separating real payout from price erosion, a slow-WiFi report traced to the server's own link, and push-to-talk voice input built on-device
 - [2026-10-05](2026/10/2026-10-05.md) — a Mjolnir carving stencil redrawn from measurements after the eyeballed version looked like a kite, plus a four-tile Woodsman Ways stencil with its seam placed to avoid a loose island
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-09-30](2026/09/2026-09-30.md) — the Steam Deck's Gaming Mode patched directly into a full handheld PC, with a live wallpaper switcher and desktop apps running natively, no plugin framework
 - [2026-09-29](2026/09/2026-09-29.md) — Ironman's second area Oakhollow shipped with two new skills and a second boss, a playtest-only rendering bug caught what green tests missed, plus a tape dispenser reprint and Steam Deck button macros
 - [2026-09-28](2026/09/2026-09-28.md) — Ironman, an offline OSRS-style RPG, built from design calls to v0.4.0 in a day: file-server playable, Deck-tested, a combat triangle and a merged Melee skill, plus a site outage traced to a file-ownership slip
-- [2026-09-26](2026/09/2026-09-26.md) — slow internet and stuck print uploads narrowed step by step to the uploading device, with the server, app and tunnel all ruled out
 
 ## Scope
 
