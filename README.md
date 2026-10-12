@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-10-11](2026/10/2026-10-11.md) — a printer shown as offline traced to a dropped USB-serial link the print controller never reconnected, fixed with one reconnect command
 - [2026-10-10](2026/10/2026-10-10.md) — hands-free voice mode on the agent console, built on fully local speech-to-text and synthesis and tested end to end with a WAV file standing in for the microphone
 - [2026-10-08](2026/10/2026-10-08.md) — the chat frontend rebuilt into a terminal-first agent console with a self-updating model list, a CDN caching catch that turned Ironman's demo into a single self-contained page, and remote UI control of the Steam Deck confirmed
 - [2026-10-07](2026/10/2026-10-07.md) — a slicer project with a subtractive engraving converted to a plain STL by real boolean difference rather than a merge, and a no-drill notched-neck pendant attachment for hardened steel
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-10-02](2026/10/2026-10-02.md) — a decision model researched and ruled out as a tunnel-watchdog replacement, Ironman's save transfer rebuilt to fail visibly, and the game made playable from one public link
 - [2026-10-01](2026/10/2026-10-01.md) — Ironman's third area, a farm with the game's first timer-based skill and a ranged boss, shipped, plus a text-only 3D frog toy test that landed at "okay, not great"
 - [2026-09-30](2026/09/2026-09-30.md) — the Steam Deck's Gaming Mode patched directly into a full handheld PC, with a live wallpaper switcher and desktop apps running natively, no plugin framework
-- [2026-09-29](2026/09/2026-09-29.md) — Ironman's second area Oakhollow shipped with two new skills and a second boss, a playtest-only rendering bug caught what green tests missed, plus a tape dispenser reprint and Steam Deck button macros
 
 ## Scope
 
