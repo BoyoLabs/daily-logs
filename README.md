@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-10-12](2026/10/2026-10-12.md) — an animated football gamecast on the demo hub built from public play-by-play, a pre-open macro email where a small local model was demoted from writing summaries to picking headlines, and noisy new-IP alerts switched off
 - [2026-10-11](2026/10/2026-10-11.md) — a printer shown as offline traced to a dropped USB-serial link the print controller never reconnected, fixed with one reconnect command
 - [2026-10-10](2026/10/2026-10-10.md) — hands-free voice mode on the agent console, built on fully local speech-to-text and synthesis and tested end to end with a WAV file standing in for the microphone
 - [2026-10-08](2026/10/2026-10-08.md) — the chat frontend rebuilt into a terminal-first agent console with a self-updating model list, a CDN caching catch that turned Ironman's demo into a single self-contained page, and remote UI control of the Steam Deck confirmed
@@ -34,8 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-10-03](2026/10/2026-10-03.md) — an online Ironman built and torn down the same day, TPU as a selectable print material, and a clean-room prompt playground whose invisible menu entry turned out to be two stacked caches
 - [2026-10-02](2026/10/2026-10-02.md) — a decision model researched and ruled out as a tunnel-watchdog replacement, Ironman's save transfer rebuilt to fail visibly, and the game made playable from one public link
 - [2026-10-01](2026/10/2026-10-01.md) — Ironman's third area, a farm with the game's first timer-based skill and a ranged boss, shipped, plus a text-only 3D frog toy test that landed at "okay, not great"
-- [2026-09-30](2026/09/2026-09-30.md) — the Steam Deck's Gaming Mode patched directly into a full handheld PC, with a live wallpaper switcher and desktop apps running natively, no plugin framework
-
 ## Scope
 
 Only substantive Boyo Labs activity — real work, decisions, experiments, fixes —
