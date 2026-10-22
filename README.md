@@ -25,6 +25,8 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-10-21](2026/10/2026-10-21.md) — hat-patch stencils turned into a reusable pipeline, a straight-cut rule for leather patterns, a skillet handle sleeve, and a price-aware income estimate
+- [2026-10-19](2026/10/2026-10-19.md) — print-time estimates rebuilt from the slicer's per-layer timeline, and leather patterns drafted from a plain description
 - [2026-10-18](2026/10/2026-10-18.md) — 3D-printed leatherworking stencils: a can coozie split into four welded pieces, a riveted knife sheath designed from measurements, and a three-piece wallet decoded from its rivet symbols
 - [2026-10-15](2026/10/2026-10-15.md) — a free 3D engine picked for AI-built games, a walkable capability gallery with a web-renderer bug bisected out, and a new game concept taken from pitch to playable online build in a day
 - [2026-10-13](2026/10/2026-10-13.md) — a split on-screen keyboard for the handheld built as CSS overrides on the stock one, with backups and rebuild notes ready for when a client update breaks it
@@ -33,8 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-10-10](2026/10/2026-10-10.md) — hands-free voice mode on the agent console, built on fully local speech-to-text and synthesis and tested end to end with a WAV file standing in for the microphone
 - [2026-10-08](2026/10/2026-10-08.md) — the chat frontend rebuilt into a terminal-first agent console with a self-updating model list, a CDN caching catch that turned Ironman's demo into a single self-contained page, and remote UI control of the Steam Deck confirmed
 - [2026-10-07](2026/10/2026-10-07.md) — a slicer project with a subtractive engraving converted to a plain STL by real boolean difference rather than a merge, and a no-drill notched-neck pendant attachment for hardened steel
-- [2026-10-06](2026/10/2026-10-06.md) — a monthly-income column and a Position Analysis tab separating real payout from price erosion, a slow-WiFi report traced to the server's own link, and push-to-talk voice input built on-device
-- [2026-10-05](2026/10/2026-10-05.md) — a Mjolnir carving stencil redrawn from measurements after the eyeballed version looked like a kite, plus a four-tile Woodsman Ways stencil with its seam placed to avoid a loose island
 ## Scope
 
 Only substantive Boyo Labs activity — real work, decisions, experiments, fixes —
