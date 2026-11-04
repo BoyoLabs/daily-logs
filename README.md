@@ -25,16 +25,17 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
-- [2026-10-21](2026/10/2026-10-21.md) — hat-patch stencils turned into a reusable pipeline, a straight-cut rule for leather patterns, a skillet handle sleeve, and a price-aware income estimate
-- [2026-10-19](2026/10/2026-10-19.md) — print-time estimates rebuilt from the slicer's per-layer timeline, and leather patterns drafted from a plain description
-- [2026-10-18](2026/10/2026-10-18.md) — 3D-printed leatherworking stencils: a can coozie split into four welded pieces, a riveted knife sheath designed from measurements, and a three-piece wallet decoded from its rivet symbols
-- [2026-10-15](2026/10/2026-10-15.md) — a free 3D engine picked for AI-built games, a walkable capability gallery with a web-renderer bug bisected out, and a new game concept taken from pitch to playable online build in a day
-- [2026-10-13](2026/10/2026-10-13.md) — a split on-screen keyboard for the handheld built as CSS overrides on the stock one, with backups and rebuild notes ready for when a client update breaks it
-- [2026-10-12](2026/10/2026-10-12.md) — an animated football gamecast on the demo hub built from public play-by-play, a pre-open macro email where a small local model was demoted from writing summaries to picking headlines, and noisy new-IP alerts switched off
-- [2026-10-11](2026/10/2026-10-11.md) — a printer shown as offline traced to a dropped USB-serial link the print controller never reconnected, fixed with one reconnect command
-- [2026-10-10](2026/10/2026-10-10.md) — hands-free voice mode on the agent console, built on fully local speech-to-text and synthesis and tested end to end with a WAV file standing in for the microphone
-- [2026-10-08](2026/10/2026-10-08.md) — the chat frontend rebuilt into a terminal-first agent console with a self-updating model list, a CDN caching catch that turned Ironman's demo into a single self-contained page, and remote UI control of the Steam Deck confirmed
-- [2026-10-07](2026/10/2026-10-07.md) — a slicer project with a subtractive engraving converted to a plain STL by real boolean difference rather than a merge, and a no-drill notched-neck pendant attachment for hardened steel
+- [2026-11-03](2026/11/2026-11-03.md) — a tunnel client checked against a weak-key CA advisory, already patched
+- [2026-11-02](2026/11/2026-11-02.md) — the lab's output converging on stencils and templates for handmade work, and rounded corners as the pattern default
+- [2026-11-01](2026/11/2026-11-01.md) — a stitched multitool bit-kit carrier redrawn as riveted belt stencils
+- [2026-10-30](2026/10/2026-10-30.md) — multi-photo projects and a slideshow on the Woodsman Ways gallery
+- [2026-10-29](2026/10/2026-10-29.md) — a tiled pyrography shop sign stencil, and why a likeness needs a few big shapes
+- [2026-10-28](2026/10/2026-10-28.md) — the finished, oiled hunting knife on the Woodsman Ways gallery
+- [2026-10-27](2026/10/2026-10-27.md) — a game lobby that never came back after a reboot, fixed with auto-start and self-heal
+- [2026-10-26](2026/10/2026-10-26.md) — the quote service redesigned as an academic reference work with a branches-of-philosophy index
+- [2026-10-25](2026/10/2026-10-25.md) — a machine-verified philosophy quote service built and launched in a day
+- [2026-10-24](2026/10/2026-10-24.md) — machine-wide browser popup lockdown
+
 ## Scope
 
 Only substantive Boyo Labs activity — real work, decisions, experiments, fixes —
