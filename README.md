@@ -25,6 +25,8 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-11-05](2026/11/2026-11-05.md) — off-site backup moved to Google Drive, and the chat console's mid-turn restarts fixed
+- [2026-11-04](2026/11/2026-11-04.md) — a self-emptying archive, a battery-time Android app, and a tunnel outage traced to wifi
 - [2026-11-03](2026/11/2026-11-03.md) — a tunnel client checked against a weak-key CA advisory, already patched
 - [2026-11-02](2026/11/2026-11-02.md) — the lab's output converging on stencils and templates for handmade work, and rounded corners as the pattern default
 - [2026-11-01](2026/11/2026-11-01.md) — a stitched multitool bit-kit carrier redrawn as riveted belt stencils
@@ -33,8 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-10-28](2026/10/2026-10-28.md) — the finished, oiled hunting knife on the Woodsman Ways gallery
 - [2026-10-27](2026/10/2026-10-27.md) — a game lobby that never came back after a reboot, fixed with auto-start and self-heal
 - [2026-10-26](2026/10/2026-10-26.md) — the quote service redesigned as an academic reference work with a branches-of-philosophy index
-- [2026-10-25](2026/10/2026-10-25.md) — a machine-verified philosophy quote service built and launched in a day
-- [2026-10-24](2026/10/2026-10-24.md) — machine-wide browser popup lockdown
 
 ## Scope
 
