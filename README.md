@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-11-10](2026/11/2026-11-10.md) — a chat console's Cloudflare 522s traced past a stale connection to dropped QUIC traffic, tunnel moved to HTTP/2
 - [2026-11-09](2026/11/2026-11-09.md) — a two-colour inlay gift sign, the physics of hanging it level, and a 3MF's hidden negative part
 - [2026-11-08](2026/11/2026-11-08.md) — a lighter sleeve's fit confirmed, a font-printability study, and a printed garden stake
 - [2026-11-07](2026/11/2026-11-07.md) — a lighter sleeve's fit found by bracketing two missed prints, and the keycap logo redrawn for the nozzle
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-11-03](2026/11/2026-11-03.md) — a tunnel client checked against a weak-key CA advisory, already patched
 - [2026-11-02](2026/11/2026-11-02.md) — the lab's output converging on stencils and templates for handmade work, and rounded corners as the pattern default
 - [2026-11-01](2026/11/2026-11-01.md) — a stitched multitool bit-kit carrier redrawn as riveted belt stencils
-- [2026-10-30](2026/10/2026-10-30.md) — multi-photo projects and a slideshow on the Woodsman Ways gallery
 
 ## Scope
 
