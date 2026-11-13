@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-11-12](2026/11/2026-11-12.md) — an income-sleeve NAV check, a ledger backfill, and experiments with multi-agent teams
 - [2026-11-11](2026/11/2026-11-11.md) — the chat console holding on HTTP/2, and a stamped maker's mark made standard on every design
 - [2026-11-10](2026/11/2026-11-10.md) — a chat console's Cloudflare 522s traced past a stale connection to dropped QUIC traffic, tunnel moved to HTTP/2
 - [2026-11-09](2026/11/2026-11-09.md) — a two-colour inlay gift sign, the physics of hanging it level, and a 3MF's hidden negative part
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-11-05](2026/11/2026-11-05.md) — off-site backup moved to Google Drive, and the chat console's mid-turn restarts fixed
 - [2026-11-04](2026/11/2026-11-04.md) — a self-emptying archive, a battery-time Android app, and a tunnel outage traced to wifi
 - [2026-11-03](2026/11/2026-11-03.md) — a tunnel client checked against a weak-key CA advisory, already patched
-- [2026-11-02](2026/11/2026-11-02.md) — the lab's output converging on stencils and templates for handmade work, and rounded corners as the pattern default
 
 ## Scope
 
