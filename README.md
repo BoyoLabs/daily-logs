@@ -26,7 +26,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 The 10 most recently pushed days, newest first:
 
 - [2026-11-13](2026/11/2026-11-13.md) — a two-piece couch lap tray for the Deck and a keyboard
-- [2026-11-12](2026/11/2026-11-12.md) — an income-sleeve NAV check, a ledger backfill, and experiments with multi-agent teams
+- [2026-11-12](2026/11/2026-11-12.md) — a dashboard chart fix, experiments with multi-agent teams, and a bull-vs-bear desk scene
 - [2026-11-11](2026/11/2026-11-11.md) — the chat console holding on HTTP/2, and a stamped maker's mark made standard on every design
 - [2026-11-10](2026/11/2026-11-10.md) — a chat console's Cloudflare 522s traced past a stale connection to dropped QUIC traffic, tunnel moved to HTTP/2
 - [2026-11-09](2026/11/2026-11-09.md) — a two-colour inlay gift sign, the physics of hanging it level, and a 3MF's hidden negative part
