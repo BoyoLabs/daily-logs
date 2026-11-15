@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-11-14](2026/11/2026-11-14.md) — a Boyo Labs TPU hat patch, and heat-set pins that did not seat well in TPU
 - [2026-11-13](2026/11/2026-11-13.md) — a two-piece couch lap tray for the Deck and a keyboard
 - [2026-11-12](2026/11/2026-11-12.md) — a dashboard chart fix, experiments with multi-agent teams, and a bull-vs-bear desk scene
 - [2026-11-11](2026/11/2026-11-11.md) — the chat console holding on HTTP/2, and a stamped maker's mark made standard on every design
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-11-07](2026/11/2026-11-07.md) — a lighter sleeve's fit found by bracketing two missed prints, and the keycap logo redrawn for the nozzle
 - [2026-11-06](2026/11/2026-11-06.md) — a heartbeat line for the chat console, and a printed coozie that fit first try
 - [2026-11-05](2026/11/2026-11-05.md) — off-site backup moved to Google Drive, and the chat console's mid-turn restarts fixed
-- [2026-11-04](2026/11/2026-11-04.md) — a self-emptying archive, a battery-time Android app, and a tunnel outage traced to wifi
 
 ## Scope
 
