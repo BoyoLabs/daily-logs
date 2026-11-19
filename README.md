@@ -25,6 +25,7 @@ For example, an entry from August 14th, 2026 lives at `2026/08/2026-08-14.md`.
 
 The 10 most recently pushed days, newest first:
 
+- [2026-11-18](2026/11/2026-11-18.md) — Lanternfall's all-time rank, phone fixes and self-updating downloads, plus a new backing-track engine
 - [2026-11-17](2026/11/2026-11-17.md) — Lanternfall rebuilt as a ranked wave-survival game, then friends, co-op and rank emblems
 - [2026-11-16](2026/11/2026-11-16.md) — a circuit-board coaster set that tiles into one board, its socket holder, and the cyberdeck drawer back as a bolt-on
 - [2026-11-15](2026/11/2026-11-15.md) — the couch lap tray printed first try, and its first real working session
@@ -34,7 +35,6 @@ The 10 most recently pushed days, newest first:
 - [2026-11-11](2026/11/2026-11-11.md) — the chat console holding on HTTP/2, and a stamped maker's mark made standard on every design
 - [2026-11-10](2026/11/2026-11-10.md) — a chat console's Cloudflare 522s traced past a stale connection to dropped QUIC traffic, tunnel moved to HTTP/2
 - [2026-11-09](2026/11/2026-11-09.md) — a two-colour inlay gift sign, the physics of hanging it level, and a 3MF's hidden negative part
-- [2026-11-08](2026/11/2026-11-08.md) — a lighter sleeve's fit confirmed, a font-printability study, and a printed garden stake
 
 ## Scope
 
